@@ -1,0 +1,11 @@
+---
+name: RecordPace
+version: 1.0.0
+main: johnvbg\RecordPace\RecordPace
+api: 4.0.0
+author: John Bergman
+permissions:
+  recordpace.permission.list:
+    default: false
+    description: List all replays
+...
